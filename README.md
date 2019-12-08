@@ -1,11 +1,11 @@
 # JomBorak
 ![JomBorak](https://github.com/nabilfarhann/JomBorak/blob/master/demo.png?raw=true)
 
-:star2::star2: **Don't forget to give this repo a star!** :star2::star2:
-
 <p align="center">
   <img src="demo.gif">
 </p>
+
+:star2::star2: **Don't forget to give this repo a star!** :star2::star2:
 
 ## Description
 Chat Messaging App with Flutter include with Google Firebase as database.
