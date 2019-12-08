@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>YOUR KEY</string>
+	<string>YOUR KEYs</string>
 	<key>REVERSED_CLIENT_ID</key>
 	<string>YOUR KEY</string>
 	<key>ANDROID_CLIENT_ID</key>
