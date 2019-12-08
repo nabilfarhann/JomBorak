@@ -37,7 +37,8 @@
 **/android/**/GeneratedPluginRegistrant.java
 **/android/app/google-services.json
 **/android/app/GoogleService-Info.plist
-**/android/app/keystore/
+**/android/app/keystore/chatdebug.keystore
+**/android/app/keystore/debug.keystore
 
 # iOS/XCode related
 **/ios/**/*.mode1v3
