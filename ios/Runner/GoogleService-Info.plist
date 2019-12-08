@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>770385564842-tm3iuaqqtfvo5vc9llobjgv7ua9flfh4.apps.googleusercontent.com</string>
+	<string>YOUR KEY</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.770385564842-tm3iuaqqtfvo5vc9llobjgv7ua9flfh4</string>
+	<string>YOUR KEY</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>770385564842-pnhgvbi8ebaq0k10tpi7fh3scnml3qug.apps.googleusercontent.com</string>
+	<string>YOUR KEY</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDrQKtPthQnMDcgO5W0KZ1wWZVmqn-yrzQ</string>
+	<string>YOUR KEY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>770385564842</string>
+	<string>YOUR KEY</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.nabilfarhan.flutterchat</string>
+	<string>YOUR KEY</string>
 	<key>PROJECT_ID</key>
-	<string>flutter-messaging-fm19</string>
+	<string>YOUR KEY</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flutter-messaging-fm19.appspot.com</string>
+	<string>YOUR KEY</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:770385564842:ios:2e607a269fda6697</string>
+	<string>YOUR KEY</string>
 	<key>DATABASE_URL</key>
-	<string>https://flutter-messaging-fm19.firebaseio.com</string>
+	<string>YOUR KEY</string>
 </dict>
 </plist>
