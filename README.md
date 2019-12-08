@@ -6,7 +6,6 @@
 <p align="center">
   <img src="demo.gif">
 </p>
-![JomBorak demo](demo.gif)
 
 ## Description
 Chat Messaging App with Flutter include with Google Firebase as database.
